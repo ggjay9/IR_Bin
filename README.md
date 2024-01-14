@@ -1,5 +1,4 @@
 # IR_Bin
-Smart Waste Bin Project: An Arduino-based smart bin with remote lid control, ultrasonic fill level monitoring, and fullness alerts via a buzzer. Code and schematics included for easy replication.
 
 Creating a smart waste bin with features like automatic lid control using a remote control and an infrared sensor. It also includes an ultrasonic sensor to monitor the bin's fill level and a buzzer for notifications when the bin is full. Here's a summary:
 
